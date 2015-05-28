@@ -18,6 +18,10 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'therubyracer', platforms: :ruby
 gem "less-rails"
 gem "twitter-bootstrap-rails"
+
+gem 'therubyracer', platforms: :ruby
+gem "less-rails"
+gem "twitter-bootstrap-rails"
 gem 'devise'
 
 # Use jquery as the JavaScript library
